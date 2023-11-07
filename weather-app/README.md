@@ -7,11 +7,11 @@
 
 ## Package Required
 
-npm install axios
-npm install react-native-elements
-npm install react-native-dotenv --save
-_Note_ **: API_KEY for api call is in `.env` file please replace the key with your key**
-**Note: api call may take some time please wait till the data is fetched through api**
+- npm install axios
+- npm install react-native-elements
+- npm install react-native-dotenv --save
+- _Note_ **: API_KEY for api call is in `.env` file please replace the key with your key**
+- **Note: api call may take some time please wait till the data is fetched through api**
 
 ### GitHub Repository
 
